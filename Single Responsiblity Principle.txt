@@ -1,0 +1,4 @@
+S — Single Responsiblity Principle (Princípio da responsabilidade única)
+
+
+A classe deve ter uma única tarefa ou ação para executar.
