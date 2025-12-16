@@ -1,0 +1,1 @@
+I — Interface Segregation Principle (Princípio da Segregação da Interface)
